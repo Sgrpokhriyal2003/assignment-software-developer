@@ -7,7 +7,7 @@ A RESTful API for managing load bookings and transportation logistics. This syst
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/Sgrpokhriyal2003/assignment-software-developer
 
 ```
 
@@ -18,7 +18,7 @@ npm install
 
 3. Create a `.env` file in the root directory with the following variables:
 ```env
-PORT=3000
+PORT=3001
 MONGO_URL=your_mongodb_connection_string
 NODE_ENV=development
 ```
